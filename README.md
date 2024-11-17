@@ -33,7 +33,7 @@
   <img src = "https://github-profile-trophy.vercel.app/?username=st4rblS" alt = ""/>
 </div>
 
-### 💩: Most using langs:
+### Most using langs:
 
 <div>
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=st4rblS" alt = ""/>
