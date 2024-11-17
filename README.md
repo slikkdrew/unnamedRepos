@@ -30,17 +30,17 @@
 ### 🏆 Achievements:
 
 <div>
-  <img src = "https://github-profile-trophy.vercel.app/?username=st4rblS" alt = ""/>
+  <img src = "https://github-profile-trophy.vercel.app/?username=Kush" alt = ""/>
 </div>
 
 ### Most using langs:
 
 <div>
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=st4rblS" alt = ""/>
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Kush" alt = ""/>
 </div>
 
 ### 📊 Activity stats:
 
 <div>
-  <img src = "https://github-readme-activity-graph.vercel.app/graph?username=st4rblS&theme=dracula" alt = ""/>
+  <img src = "https://github-readme-activity-graph.vercel.app/graph?username=Kush&theme=dracula" alt = ""/>
 </div>
