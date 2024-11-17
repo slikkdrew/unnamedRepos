@@ -16,11 +16,11 @@
   <h1> GitHub profile </h1>
 </div>
 
-### 👨‍❤️‍💋‍👨ABOUT ME:
+### ABOUT ME:
 
-- 🍭 I am 19;
-- 🎵 I am Russiano;
-- 🕶️ Love boops
+- 🍭 I am 18;
+- 🎵 I am Poland;
+- 🕶️ LOOOOOOL
 
 ### 🕳️ Programming languages and tools that I used:
 
